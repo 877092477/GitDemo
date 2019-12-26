@@ -21,6 +21,7 @@
     // Do any additional setup after loading the view.
     self.view.backgroundColor=[UIColor whiteColor];
     [self navigationBarStyleWithTitle:@"提取df" titleColor:[UIColor blackColor]  leftTitle:nil leftImageName:@"global_return_arrow.png" leftAction:@selector(popVC) rightTitle:nil rightImageName:nil rightAction:nil];
+    NSLog(@"测试demo");
     
 }
 
