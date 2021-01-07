@@ -16,7 +16,6 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
-    // Do any additional setup after loading the view.
     //将系统的代理保存（在view 加载在完毕就赋值）
 //    self.popDelegate =self.interactivePopGestureRecognizer.delegate;
 }
